@@ -226,7 +226,7 @@ section {
   line-height: 40px;
   font-size: 28px;
   font-weight: 900;
-
+  text-transform: capitalize;
   color: #111;
 }
 
